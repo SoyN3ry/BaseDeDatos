@@ -1,0 +1,65 @@
+{
+  "CLIENTES": {
+    "Cliente 1": {
+      "apellido": "Quim",
+      "correo": "abner@gmail.com",
+      "direccion": "Coban",
+      "idCliente": 1,
+      "nombre": "Abner",
+      "telefono": "5679-1021"
+    },
+    "Cliente 2": {
+      "apellido": "Valdizon",
+      "correo": "neryval@gmail.com",
+      "direccion": "Carcha",
+      "idCliente": 2,
+      "nombre": "Nery",
+      "telefono": "3510-2212"
+    },
+    "Cliente 3": {
+      "apellido": "Zambrano",
+      "correo": "davidzambra856@gmail.com",
+      "direccion": "Chamelco",
+      "idCliente": 3,
+      "nombre": "David",
+      "telefono": "3739-6727"
+    }
+  },
+  "EVENTOCLIENTE": {
+    "ClienteEvento1": {
+      "idCliente": 3,
+      "idEvento": 1,
+      "idEventoCliente": 1
+    },
+    "ClienteEvento2": {
+      "idCliente": 3,
+      "idEvento": 1,
+      "idEventoCliente": 2
+    },
+    "ClienteEvento3": {
+      "idCliente": 2,
+      "idEvento": 2,
+      "idEventoCliente": 3
+    }
+  },
+  "EVENTOS": {
+    "Evento": {
+      "Descripcion": "Fiesta de Cumpleaños",
+      "Nombre": "Casa San Juan",
+      "Precio": "Q. 2,500",
+      "idEvento": 3
+    },
+    "Evento 1": {
+      "Descripcion": "Ceremonia Matrimonial",
+      "Nombre": "Casa San Juan",
+      "Precio": "Q. 7,000",
+      "idEvento": 1
+    },
+    "Evento 2": {
+      "Descripcion": "Fiesta de Quince Años",
+      "Nombre": "Finca Chijul",
+      "Precio": "Q. 5,600",
+      "idEvento": 2
+    }
+  }
+}
